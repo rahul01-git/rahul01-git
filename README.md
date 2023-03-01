@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]
+![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate FullStackdeveloper from Nepal</h3>
 <img align="right" alt="developer" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
