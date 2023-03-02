@@ -1,7 +1,7 @@
-![MasterHead][(https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
+![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate FullStackdeveloper from Nepal</h3>
-<img align="right" alt="developer" width="400" src="[https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif](https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif)">
+<img align="right" alt="developer" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul01-git&label=Profile%20views&color=0e75b6&style=flat" alt="rahul01-git" /> </p>
 
