@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently working on **NODE.JS**
 
-- 👨‍💻 My portfolio: [https://rahulneupane.com](https://rahulneupane.com)
-
-- 👨‍💻 Games: [https://games.rahulneupane.com](https://games.rahulneupane.com)
-
 - ⚡ Fun fact **Solving the bug created by myself**
 
 <p align="left">
