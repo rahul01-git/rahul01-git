@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul01-git&label=Profile%20views&color=0e75b6&style=flat" alt="rahul01-git" /> </p>
 
-- 🌱 I’m currently working on **NODE.JS**
+- 🌱 I’m currently working on **NODE.JS (NestJS) / Ruby on Rails**
 
 - ⚡ Fun fact **Solving the bug created by myself**
 
