@@ -1,4 +1,3 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul01-git&label=Profile%20views&color=0e75b6&style=flat" alt="rahul01-git" /> </p>
 
 - 🌱 I’m currently working on **NODE.JS (NestJS) / Ruby on Rails**
@@ -16,3 +15,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahul01-git/rahul01-git/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rahul01-git/rahul01-git/output/github-contribution-grid-snake.svg">
 </picture>
+
+![rahul01-git's Stats](https://github-readme-stats-qtg8.vercel.app/api?username=rahul01-git&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul01-git&show_icons=true&theme=radical)](https://git.io/streak-stats)
